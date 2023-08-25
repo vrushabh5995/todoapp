@@ -1,0 +1,4 @@
+Django==4.2.4
+django-cors-headers==4.2.0
+djangorestframework==3.14.0
+pandas==2.0.3
